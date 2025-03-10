@@ -97,7 +97,7 @@ Build the project and deploy it on Apache Tomcat.
 
 Start the Tomcat server and access the application at:
 
-Immadisetty Lokesh:immedisettylokesh123@gmail.com
+MADINENI MADHU: madhukrishnan431@gmail.com
 
 
 
