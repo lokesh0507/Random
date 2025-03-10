@@ -1,0 +1,52 @@
+/* 1.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('images/background.jpg'); /* Path to your background image */
+    background-size: cover; /* Cover the entire screen */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent repeating */
+    color: white; /* Text color for better contrast */
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 90%;
+}
+
+#quote {
+    margin: 20px 0;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+input, button {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+button {
+    background-color: #007BFF; /* Blue button */
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+input {
+    width: 200px;
+}@charset "UTF-8";
